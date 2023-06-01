@@ -27,3 +27,7 @@ This app is built using the following Python libraries:
 - OpenAI
 
 ## How to Get OpenAI key ?
+
+Open platform.openai.com.
+Click on your name or icon option which is located on the top right corner of the page and select “API Keys” or click on the link -> Account API Keys -> OpenAI API.
+Click on create new secret key button to create a new openai key.
